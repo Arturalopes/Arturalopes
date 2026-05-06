@@ -1,12 +1,15 @@
 # 👋 Olá, eu sou o Artur 
 
 💻 Desenvolvedor apaixonado por tecnologia
+
 🚀 Focado em Python e Análise de dados
+
 📍 Brasil
 
 ## 🌐 Contato
 
 * 💼 LinkedIn: https://linkedin.com/in/arturalopes
+* 
 * 📫 Email: arturlopesss@gmail.com
 
 ---
