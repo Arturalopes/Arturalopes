@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @Arturalopes
-- 👀 I’m interested in Learn how to be the best Software eng
-- 🌱 I’m currently learning Software enginering and Codes
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+# 👋 Olá, eu sou o Artur 
+
+💻 Desenvolvedor apaixonado por tecnologia
+🚀 Focado em Python e Análise de dados
+📍 Brasil
+
+## 🌐 Contato
+
+* 💼 LinkedIn: https://linkedin.com/in/arturalopes
+* 📫 Email: arturlopesss@gmail.com
+
+---
+
 
 <!---
 Arturalopes/Arturalopes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
