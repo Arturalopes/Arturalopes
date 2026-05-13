@@ -1,8 +1,18 @@
-# 👋 Olá, eu sou o Artur 
+# 👋 # Olá! Eu sou Artur 👋
 
-💻 Desenvolvedor apaixonado por tecnologia
+Estudante de Engenharia de Software focado em desenvolvimento back-end e automação com Python.
 
-🚀 Focado em Python e Análise de dados
+
+💻 Tecnologias:
+- Python
+- Java
+- JavaScript
+- HTML/CSS
+
+🚀  Atualmente estudando:
+- APIs REST
+- Banco de dados
+- Desenvolvimento web
 
 📍 Brasil
 
