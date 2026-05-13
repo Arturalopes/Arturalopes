@@ -5,14 +5,9 @@ Estudante de Engenharia de Software focado em desenvolvimento back-end e automa�
 
 💻 Tecnologias:
 - Python
-- Java
-- JavaScript
-- HTML/CSS
+- SQL
 
-🚀  Atualmente estudando:
-- APIs REST
-- Banco de dados
-- Desenvolvimento web
+
 
 📍 Brasil
 
